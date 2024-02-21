@@ -1,6 +1,6 @@
 # AI-case-study
-Instabase
-!![alt text](image.png)
+
+![alt text](image.png)
 
 ## Overview and Origin
 
