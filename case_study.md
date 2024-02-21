@@ -1,4 +1,6 @@
-# TITLE
+# AI-case-study
+Instabase
+!![alt text](image.png)
 
 ## Overview and Origin
 
