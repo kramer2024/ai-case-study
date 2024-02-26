@@ -1,10 +1,10 @@
-# AI-case-study
+### Case Study - AI research
 
 ![alt text](image.png)
 
 ## Overview and Origin
 
-For many years the world operated on paper documents having to be physically signed and read to ensure completion and accuracy of data input. The recent trend in the world has been to move ever closer to a 'paperless' environment yet there is still so much real paper still in existence and in process of being transferred into digital content. Many companies have helped in the digitization of documents to make content available in an easier to reach fashion for broader consumption for users. With this digital transformation has come a company started in 2015 by a student in an MIT PhD program. Anant Bhardwaj started Instabase Inc after getting guidance from his mentors at MIT to pursue different research projects. He then decided to drop out of the PhD program and pursue his passion for enabling business and process automation for consuming and enabling easy access to digital documents and unstructured data. The company started off with initial funding of $3.75m raised in 2015 with another $105m raised in a Series B during 2019 then most recently another $45m in Series C raised in 2023. 
+For many years the world operated on paper documents having to be physically signed and read to ensure completion and accuracy of data input. The recent trend in the world has been to move ever closer to a 'paperless' environment yet there is still so much real paper still in existence and in process of being transferred into digital content. Many companies have helped in the digitization of documents to make content available in an easier to reach fashion for broader consumption for users. With this digital transformation has come a company started in 2015 by a student in an MIT PhD program. Anant Bhardwaj started Instabase Inc after getting guidance from his mentors at MIT to pursue different research projects. He then decided to drop out of the PhD program and pursue his passion for enabling business and process automation for consuming and enabling easy access to digital documents and unstructured data. Starting a company that did not exist previously requires the help of many people and ultimately **investors**! *The company started off with initial funding of $3.75m raised in 2015 with another $105m raised in a Series B during 2019 then most recently another $45m in Series C raised in 2023.* They have been and continue to be supported by multiple Ventura Capital companies that help generate the funding required to continue to research and improve their product. 
 
 ## Business Activities
 
@@ -26,9 +26,9 @@ The specific field Instabase competes in is crowded with startups and large exis
 ## Results
 
 Instabase has started to disrupt the technology world with their modern approach to automation and has begun to show results in the different fields they have penetration in currently. Their product and process improvements are guiding the way for improved efficiencies and enabling humans to have more time to take on different tasks. 
-- In the Financial Services industry they are showing how their automation suite improves onboarding and can facilitate faster decision making and risk mitigation for loan originations. 
-- Their work in the Insurance industry is helping to process claims faster with less human touch, which reduces potential errors or delays in customer satisfaction.  
-- They have been working with the Federal Government which has led to a 78% reduction in processing time for simple tax documents. 
+> - In the Financial Services industry they are showing how their automation suite improves onboarding and can facilitate faster decision making and risk mitigation for loan originations. 
+>  - Their work in the Insurance industry is helping to process claims faster with less human touch, which reduces potential errors or delays in customer satisfaction.  
+>  - They have been working with the Federal Government which has led to a 78% reduction in processing time for simple tax documents. 
 
 Instabase must be able to hold their product and execution accountable for the accuracy of the document processing and results produced from using their tools. While they are considered one of the market leaders in this space they will have to continue to refine their own work to ensure their processing exceeds that of their competitors. Instabase has shown how important accuracy is document processing is with their Accuracy metrics reports. This focuses in on processing times compared to previous execution runs with same datasets and represents the opportunity to refine and improve times ongoing. Included with these reports is the ability to compare to a baseline(ground truth set) which provides insights into accuracy of data read and processing. 
 
@@ -36,10 +36,12 @@ Instabase must be able to hold their product and execution accountable for the a
 
 If the day comes where Instabase were to reach out to me and inquire about what I could suggest for them to improve their market share or business model I would not have a lot of specific input. My research has shown they have a very viable product offering and continue to improve the technology supporting their approach. I do believe since they are still a very young company and currently focused on enterprise clients - many with difficult regulatory requirements, they will absolutely have the opportunity to expand beyond this footprint. 
 
-- Develop a native mobile application version of their document processing
+- Develop a native mobile application version of their document processing tools
+    - Currently users are directed to a web platform for use
     - Utilizing all the different mobile device platforms to empower end users
 - Market to individual end users to expand the breadth of their application coverage
     - Since their current focus is Enterprise they are missing out on a large population of people who could benefit from this technology at home
+    - This would require modifications to their current business model and marketing plans
 
 I would suspect as Instabase continues to expand and stabilize their Enterprise footprint while refining their product offering I could see how they can easily make the transition into mass consumer markets. I feel it would be an important step as our world continues to evolve to a more digital society this type of tool could benefit all people in their daily lives. 
 
